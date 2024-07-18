@@ -12,7 +12,6 @@ Pode me chamar de Luke, sou um entusiasta da ligação entre Tecnologia e Artes,
 
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerAnonimo01&show_icons=true&theme=midnight-purple)
 
 # Portfólio
 ---
@@ -25,6 +24,11 @@ Pode me chamar de Luke, sou um entusiasta da ligação entre Tecnologia e Artes,
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/168775836/44481fa4-4c95-4d08-b10e-fd30c482f77a" alt="Imagem">
 </p>
 
-# Linguagens
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerAnonimo01&show_icons=true&theme=midnight-purple&layout=compact)
+## Linguagens
+<div style="flex-basis: 48%;">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+## Game Engine
+<div style="flex-basis: 48%;">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+
