@@ -20,6 +20,8 @@ Pode me chamar de Luke, sou um entusiasta da ligação entre Tecnologia e Artes,
 
 - [Protótipo de Calculadora de partidas Rankeadas](https://github.com/SerAnonimo01/Calculadora.git)
 
+- [The Little Goblin Douglas](https://github.com/SerAnonimo01/The-Little-Goblin-Douglas)
+
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/168775836/44481fa4-4c95-4d08-b10e-fd30c482f77a" alt="Imagem">
