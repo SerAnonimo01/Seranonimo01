@@ -2,7 +2,7 @@
 --- 
 Pode me chamar de Luke, sou um entusiasta da ligação entre Tecnologia e Artes, pretendo estudar na New York University (NYU) 🚀
 -  Estudante Autodidata
--  Meu sonho em criar meus próprios jogos e animações
+-  Sonho em criar meus próprios jogos e animações
 
 <details>
     <summary>✍🏻 Sobre mim</summary>
