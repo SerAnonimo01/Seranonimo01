@@ -1,14 +1,14 @@
 # Olá, tranquilos?
 --- 
-Pode me chamar de Luke, sou um entusiasta da ligação entre Tecnologia e Artes, pretendo estudar na New York University (NYU). 🚀
--  🌱 Estudante Autodidata;
--  🕹️ Meu sonho é um dia criar meus próprios jogos e animações.
+Pode me chamar de Luke, sou um entusiasta da ligação entre Tecnologia e Artes, pretendo estudar na New York University (NYU) 🚀
+-  Estudante Autodidata
+-  Meu sonho em criar meus próprios jogos e animações
 
 <details>
     <summary>✍🏻 Sobre mim</summary>
 
-- 🐉 Tenho 16 anos, por enquanto moro no Brasil. Tenho experiencia com o Básico do Blender, anatomia de desenhos, criar histórias e cenários de RPG (Role-playing game), edição de fotos/vídeos e faço poemas á 5 anos;
-- 💫 Meus projetos até o momento foram simples, procuro conhecimento para enfim colocar em prática todas as minhas ideias que sonhei.
+- Tenho 16 anos, por enquanto moro no Brasil. Tenho experiencia com o Básico do Blender, anatomia de desenhos, criar histórias e cenários de RPG (Role-playing game), edição de fotos/vídeos
+- Meus projetos até o momento foram simples, procuro conhecimento para enfim colocar em prática todas as minhas ideias que planejo
 
 </details>
 
