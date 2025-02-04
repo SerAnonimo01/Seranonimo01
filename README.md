@@ -7,8 +7,7 @@ Pode me chamar de Luke, sou um entusiasta da ligação entre a Tecnologia e Arte
 <details>
     <summary>✍🏻 Sobre mim</summary>
 
-- Tenho 17 anos, por enquanto moro no Brasil. Tenho experiencia com o Básico do Blender, anatomia de desenhos, criar histórias e cenários de RPG (Role-playing game), edição de fotos/vídeos
-- Meus projetos até o momento foram simples, procuro conhecimento para enfim colocar em prática todas as minhas ideias que planejo
+- Tenho 17 anos, moro no Brasil. Tenho conhecimento em JavaScript, GDScript, Git, HTML e CSS além de uma base sólida em lógica de programação. Desepenhei-me na criação de mapas para RPG's 2D e 3D utilizando ferramentas como Dungeon Alchemist e Blender e storytelling com o Obsidian para o planejamento das história, também atuo na edição de vídeos e fotos com softwares como CapCut, Kinemaster, Alight Motion, DaVinci Resolve Studio, Canva e Lightroom.
 
 </details>
 
@@ -23,6 +22,8 @@ Pode me chamar de Luke, sou um entusiasta da ligação entre a Tecnologia e Arte
 - [The Little Goblin Douglas](https://github.com/SerAnonimo01/The-Little-Goblin-Douglas)
 
 - [Site Ayrton Senna](https://github.com/SerAnonimo01/Formula-1/tree/main)
+
+- [Desafio do Instagram](https://github.com/SerAnonimo01/Instagram)
 
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/168775836/44481fa4-4c95-4d08-b10e-fd30c482f77a" alt="Imagem">
