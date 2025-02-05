@@ -7,7 +7,13 @@ Pode me chamar de Luke, sou um entusiasta da ligação entre a Tecnologia e Arte
 <details>
     <summary>✍🏻 Sobre mim</summary>
 
-- Tenho 17 anos, moro no Brasil. Tenho conhecimento em JavaScript, GDScript, Git, HTML e CSS além de uma base sólida em lógica de programação. Desepenhei-me na criação de mapas para RPG's 2D e 3D utilizando ferramentas como Dungeon Alchemist e Blender e storytelling com o Obsidian para o planejamento das história, também atuo na edição de vídeos e fotos com softwares como CapCut, Kinemaster, Alight Motion, DaVinci Resolve Studio, Canva e Lightroom.
+- Tenho 17 anos, moro no Brasil. Tenho conhecimento em JavaScript, GDScript, Git, HTML e CSS além de uma base sólida em lógica de programação. Desepenhei-me na criação de mapas para RPG's 2D e 3D utilizando ferramentas como Dungeon Alchemist e Blender e storytelling com o Obsidian para o planejamento das história, também atuo na edição de vídeos e fotos com softwares como CapCut, Kinemaster, Alight Motion, DaVinci Resolve Studio, Canva e Lightroom.]
+
+### Outros Projetos
+
+- [Primeiro Contato com PHP](https://github.com/SerAnonimo01/teste-php)
+
+---
 
 </details>
 
@@ -28,10 +34,6 @@ Pode me chamar de Luke, sou um entusiasta da ligação entre a Tecnologia e Arte
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/168775836/44481fa4-4c95-4d08-b10e-fd30c482f77a" alt="Imagem">
 </p>
-
-## Outros Projetos
-
-- [Primeiro Contato com PHP](https://github.com/SerAnonimo01/teste-php)
 
 # Linguagens
 ---
